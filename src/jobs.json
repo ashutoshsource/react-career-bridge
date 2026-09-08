@@ -1,0 +1,102 @@
+{
+  "jobs": [
+  {
+    "id": "1",
+    "title": "Senior React Developer",
+    "type": "Full-Time",
+    "description": "We are seeking a talented React Developer to join our team in Bengaluru, Karnataka. The ideal candidate will have strong skills in JavaScript, React, HTML, and CSS, with experience building modern and responsive web applications.",
+    "location": "Noida, Uttar Pradesh",
+    "salary": "₹12 LPA - ₹18 LPA",
+    "company": {
+      "name": "Infosys",
+      "description": "Infosys is a global technology and consulting company that provides digital services, software development, and IT solutions to businesses worldwide. The company focuses on innovation, technology, and creating opportunities for professionals to build their careers.",
+      "contactEmail": "careers@infosys.com",
+      "contactPhone": "+91 80 2852 0261"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Front-End Engineer (React & Redux)",
+    "type": "Full-Time",
+    "location": "New Delhi, Delhi",
+    "description": "Join our development team as a Front-End Engineer in Pune. We are looking for a motivated developer with a passion for creating beautiful and responsive web applications using React and Redux. Strong knowledge of JavaScript and UI development is preferred.",
+    "salary": "₹8 LPA - ₹14 LPA",
+    "company": {
+      "name": "Zoho Corporation",
+      "description": "Zoho Corporation is an Indian multinational technology company headquartered in Chennai, India, with US headquarters in Austin, Texas. Founded in 1996 by Sridhar Vembu and Tony Thomas, it operates as a privately held and unfunded (bootstrapped) entity that generates revenue through software sales rather than external venture capital or advertising.",
+      "contactEmail": "careers@zohocorp.com",
+      "contactPhone": "+91 44 6744 7070"
+    }
+  },
+  {
+    "id": "3",
+    "title": "React.js Developer",
+    "type": "Full-Time",
+    "location": "Hyderabad, Telangana",
+    "description": "Are you passionate about front-end development? Join our team in Hyderabad and work on exciting web applications used by customers across India. You will collaborate with designers and backend developers to build fast, scalable, and user-friendly interfaces.",
+    "salary": "₹7 LPA - ₹12 LPA",
+    "company": {
+      "name": "Wipro",
+      "description": "Wipro is a leading Indian technology services and consulting company. It provides IT services, engineering solutions, cloud technologies, and digital transformation services to organizations around the world.",
+      "contactEmail": "careers@wipro.com",
+      "contactPhone": "+91 80 2844 0011"
+    }
+  },
+  {
+    "id": "4",
+    "title": "React Front-End Developer",
+    "type": "Part-Time",
+    "description": "Join our team as a Part-Time Front-End Developer in Noida, Uttar Pradesh. We are looking for a self-motivated developer with a passion for creating engaging user experiences. This position offers flexible working hours and an opportunity to work with modern frontend technologies.",
+    "location": "Noida, Uttar Pradesh",
+    "salary": "₹4 LPA - ₹7 LPA",
+    "company": {
+      "name": "HCLTech",
+      "description": "HCLTech is a global technology company headquartered in India. It provides technology consulting, software development, engineering, and digital transformation services to clients across multiple industries.",
+      "contactEmail": "careers@hcl.com",
+      "contactPhone": "+91 120 430 6000"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Full Stack React Developer",
+    "type": "Full-Time",
+    "description": "Exciting opportunity for a Full Stack Developer in Gurugram, Haryana. We are seeking a talented individual with experience in React, Node.js, Express, and MongoDB. You will work on scalable web applications and collaborate with a team of developers and product managers.",
+    "location": "Gurugram, Haryana",
+    "salary": "₹10 LPA - ₹16 LPA",
+    "company": {
+      "name": "Tech Mahindra",
+      "description": "Tech Mahindra is an Indian technology company providing digital transformation, consulting, and IT services. The company works with businesses around the world to build innovative technology solutions and digital products.",
+      "contactEmail": "careers@techmahindra.com",
+      "contactPhone": "+91 20 4225 0000"
+    }
+  },
+  {
+    "id": "6",
+    "title": "React Native Developer",
+    "type": "Full-Time",
+    "description": "Join our mobile development team in Chennai, Tamil Nadu. We are looking for a skilled React Native Developer to build high-quality cross-platform mobile applications. Experience with JavaScript, React Native, REST APIs, and mobile application development is preferred.",
+    "location": "Chennai, Tamil Nadu",
+    "salary": "₹8 LPA - ₹13 LPA",
+    "company": {
+      "name": "Cognizant",
+      "description": "Cognizant is a multinational technology and professional services company with a strong presence in India. The company helps businesses modernize their technology platforms and build digital products and solutions.",
+      "contactEmail": "careers@cognizant.com",
+      "contactPhone": "+91 44 4209 6000"
+    }
+  },
+  {
+    "id": "7",
+    "title": "AIML Engineer",
+    "type": "Remote",
+    "location": "new delhi, india",
+    "description": "Build and deploy machine learning models and AI-powered solutions. Work with Python, data preprocessing, model evaluation, and ML frameworks to develop scalable intelligent applications.",
+    "salary": "10 LPA - 12 LPA",
+    "company": {
+      "name": "NeuralArc AI",
+      "description": "NeuralArc AI is an early-stage Delhi-based startup building applied machine learning tools for small businesses. The team is small, fast-moving, and hands-on, giving engineers wide ownership over the products they build.",
+      "contactEmail": "careers@neuralarc.ai",
+      "contactPhone": "+91 98111 22334"
+    }
+  }
+]
+}
